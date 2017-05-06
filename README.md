@@ -2,7 +2,13 @@
 
 Asynchronously loading components with conditional rendering can lead to a janky UI experience if you are not careful. React Dejank is a development utility for fixing this problem. You should not use React Dejank in production.
 
-## Install
+## Janked
+![janked](https://github.com/timurtu/react-dejank/blob/master/gifs/janked.gif)
+
+## Dejanked
+![dejanked](https://github.com/timurtu/react-dejank/blob/master/gifs/dejanked.gif)
+
+# Install
 
 ### NPM
 
