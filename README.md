@@ -8,6 +8,10 @@ Asynchronously loading components with conditional rendering can lead to a janky
 ## Dejanked
 ![dejanked](https://github.com/timurtu/react-dejank/blob/master/gifs/dejanked.gif)
 
+### NOTE
+
+This library is meant to be required, used, then removed. It's for the ability to see what your component looks like rendered or not rendered in real time, clean up jank, then removed entirely.
+
 # Install
 
 ### NPM
