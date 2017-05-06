@@ -1,0 +1,26 @@
+{
+  "name": "react-dejank",
+  "version": "1.0.3",
+  "description": "Utility for fixing janky UIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurtu/react-dejank.git"
+  },
+  "keywords": [
+    "react",
+    "dejank",
+    "janky",
+    "ui",
+    "async"
+  ],
+  "author": "Timur Uzel <timurt.uzel@gmail.com> (https://github.com/timurtu/react-dejank)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurtu/react-dejank/issues"
+  },
+  "homepage": "https://github.com/timurtu/react-dejank#readme"
+}
