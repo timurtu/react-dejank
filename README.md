@@ -73,7 +73,7 @@ class User extends React.Component {
 
     // add dejank to any existing conditional rendering.
     // the dejank prop will toggle between true and false on an interval.
-    if (this.state.user.name || this.props.dejank) {
+    if (this.state.user.name && this.props.dejank) {
       return (
         <Text style={styles.text}>
           The username is {this.state.user.name}
